@@ -15,7 +15,7 @@
 
 ## 📑 **Sobre este Repositório**
 
-Este repositório reúne um resumo de temas abordados no **Curso da DIO - Formação Microsoft AZ-900 Certification - Módulo 2 – Arquitetura e Serviços do Azure**, com foco em:
+Este repositório reúne um resumo de temas tratados no **Curso da DIO - Formação Microsoft AZ-900 Certification - Módulo 2 – Arquitetura e Serviços do Azure**, com foco em:
 
 - Serviços de **computação**
 - Serviços de **rede**
